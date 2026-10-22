@@ -1,0 +1,4 @@
+{
+  "name": "lab-mariadb",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm"
+}
